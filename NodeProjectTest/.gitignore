@@ -1,0 +1,10 @@
+/node_modules
+.env.local
+.env
+/Files
+/NodeMysqlConnectivity
+filereading.js
+mongodb.js
+package-lock.json
+package.json
+pathmodules.js
