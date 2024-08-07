@@ -1,8 +1,8 @@
 const { Sequelize } = require('sequelize');
 
 // Replace the placeholders with your actual database connection details
-const sequelize = new Sequelize('grocerystoreproject', 'root', 'Neosoft3@', {
-  host: '127.0.0.1', // Replace 'localhost' with your database host if it's different
+const sequelize = new Sequelize('Db_name', 'username', 'password', {
+  host: 'localhost', // Replace 'localhost' with your database host if it's different
   dialect: 'mysql',
   logging: false // Set to `true` if you want to enable SQL query logging
 });
