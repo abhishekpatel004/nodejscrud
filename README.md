@@ -1,2 +1,2 @@
 # nodejscrud
-perform crud using node mvc and usef mongodb and mysql
+Perform Crud Operation using Express Js and MVC on Mongodb and Mysql
